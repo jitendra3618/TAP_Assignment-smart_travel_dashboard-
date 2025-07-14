@@ -30,6 +30,8 @@ syntax  useEffect(setup,dependencies?)
 - Tailwind CSS
 - HTML5 Canvas
 - Web APIs
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c5527d07-6516-4fa5-890c-25c87d3c027e" />
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/39c906bf-0e18-4622-b307-8644e624b458" />
 
 ## 🚀 Setup Instructions
 
