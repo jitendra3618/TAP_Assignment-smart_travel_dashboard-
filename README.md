@@ -51,4 +51,4 @@ npm start
 
 ---
 
-Made with ❤️ for a frontend assignment.
+Made by Jitendra kumar for a frontend assignment.
