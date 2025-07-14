@@ -92,7 +92,7 @@ export default function App() {
   return (
     <div className="min-h-[250vh] bg-gray-100 text-gray-800 p-4 space-y-6">
       <h1 className="text-3xl font-bold text-center">🌍 Smart Travel Dashboard</h1>
-
+<h2>created by Jitendra Kumar</h2>
       {/* Location Section */}
       <div className="border shadow-md p-4 bg-white">
         <h2 className="text-xl font-semibold mb-2">Your Location</h2>
