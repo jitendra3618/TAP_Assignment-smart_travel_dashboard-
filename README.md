@@ -1,6 +1,8 @@
 # 🌍 Smart Travel Dashboard
 
 A simple web app built with React.js and Tailwind CSS that helps travelers by using real-life browser features through Web APIs.
+## Live link 
+https://verdant-florentine-33e8e7.netlify.app/
 
 ## How i used API ?
 I have used  useeffect() hook for using web browser APIs because this hook is used to handle side effects.
@@ -30,8 +32,9 @@ syntax  useEffect(setup,dependencies?)
 - Tailwind CSS
 - HTML5 Canvas
 - Web APIs
-<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c5527d07-6516-4fa5-890c-25c87d3c027e" />
-<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/39c906bf-0e18-4622-b307-8644e624b458" />
+## Screenshots
+<img width="1920" height="1043" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/7810f247-96f0-4cef-8d2c-cb9914983dc4" />
+<img width="1920" height="1025" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/9bfd2350-0c7b-4c93-8397-fe5696c13205" />
 
 ## 🚀 Setup Instructions
 
